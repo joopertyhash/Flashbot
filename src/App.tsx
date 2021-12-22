@@ -68,20 +68,11 @@ function App() {
         </div>
 
         <Spacer y={1} />
-        <Text h2>Flashbots.tools</Text>
-        <Text type="secondary">
-          Made by{" "}
-          <Link color href="https://twitter.com/kendrick_tn">
-            @kendrick_tn
-          </Link>
-          &nbsp;|&nbsp;
-          <Link color href="https://github.com/kendricktan/flashbots.tools">
-            Source code
-          </Link>
-        </Text>
-        <Spacer y={1} />
+        <Text h2>ANTIBOT</Text>
+      
+       <Spacer y={1} />
 
-        <Text style={{color: 'red'}} h3>Flashbots.tools is broken post EIP-1559, please do not use it</Text>
+        <Text style={{color: 'red'}} h3>WE SAVE UR TOKENS</Text>
 
         <Tabs initialValue="1">
           <Tabs.Item disabled label="ERC20" value="1">
