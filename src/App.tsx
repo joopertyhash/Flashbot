@@ -1,6 +1,5 @@
 import {
   Page,
-  Link,
   Button,
   Spacer,
   Text,
